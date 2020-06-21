@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/food-stores/static/css/main.d767fdb7.chunk.css",
+    "main.js": "/food-stores/static/js/main.696c7428.chunk.js",
+    "main.js.map": "/food-stores/static/js/main.696c7428.chunk.js.map",
+    "runtime-main.js": "/food-stores/static/js/runtime-main.68b89a14.js",
+    "runtime-main.js.map": "/food-stores/static/js/runtime-main.68b89a14.js.map",
+    "static/js/2.572d5f32.chunk.js": "/food-stores/static/js/2.572d5f32.chunk.js",
+    "static/js/2.572d5f32.chunk.js.map": "/food-stores/static/js/2.572d5f32.chunk.js.map",
+    "index.html": "/food-stores/index.html",
+    "precache-manifest.f39bdf1f119c984db2865361e6077128.js": "/food-stores/precache-manifest.f39bdf1f119c984db2865361e6077128.js",
+    "service-worker.js": "/food-stores/service-worker.js",
+    "static/css/main.d767fdb7.chunk.css.map": "/food-stores/static/css/main.d767fdb7.chunk.css.map",
+    "static/js/2.572d5f32.chunk.js.LICENSE.txt": "/food-stores/static/js/2.572d5f32.chunk.js.LICENSE.txt",
+    "static/media/food-bg.jpg": "/food-stores/static/media/food-bg.698e5e80.jpg",
+    "static/media/shopping-cart-solid.svg": "/food-stores/static/media/shopping-cart-solid.701d6d1d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68b89a14.js",
+    "static/js/2.572d5f32.chunk.js",
+    "static/css/main.d767fdb7.chunk.css",
+    "static/js/main.696c7428.chunk.js"
+  ]
+}
