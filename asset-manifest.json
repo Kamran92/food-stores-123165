@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/food-stores-123165/static/css/main.d767fdb7.chunk.css",
-    "main.js": "/food-stores-123165/static/js/main.696c7428.chunk.js",
-    "main.js.map": "/food-stores-123165/static/js/main.696c7428.chunk.js.map",
+    "main.js": "/food-stores-123165/static/js/main.420c6e2d.chunk.js",
+    "main.js.map": "/food-stores-123165/static/js/main.420c6e2d.chunk.js.map",
     "runtime-main.js": "/food-stores-123165/static/js/runtime-main.c92d03f3.js",
     "runtime-main.js.map": "/food-stores-123165/static/js/runtime-main.c92d03f3.js.map",
     "static/js/2.572d5f32.chunk.js": "/food-stores-123165/static/js/2.572d5f32.chunk.js",
     "static/js/2.572d5f32.chunk.js.map": "/food-stores-123165/static/js/2.572d5f32.chunk.js.map",
     "index.html": "/food-stores-123165/index.html",
-    "precache-manifest.1c58b6fd5f65cb3d828c5deb575e7bde.js": "/food-stores-123165/precache-manifest.1c58b6fd5f65cb3d828c5deb575e7bde.js",
+    "precache-manifest.8068e1e2f884fa5e2a1dab4a92d8e6ea.js": "/food-stores-123165/precache-manifest.8068e1e2f884fa5e2a1dab4a92d8e6ea.js",
     "service-worker.js": "/food-stores-123165/service-worker.js",
     "static/css/main.d767fdb7.chunk.css.map": "/food-stores-123165/static/css/main.d767fdb7.chunk.css.map",
     "static/js/2.572d5f32.chunk.js.LICENSE.txt": "/food-stores-123165/static/js/2.572d5f32.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.c92d03f3.js",
     "static/js/2.572d5f32.chunk.js",
     "static/css/main.d767fdb7.chunk.css",
-    "static/js/main.696c7428.chunk.js"
+    "static/js/main.420c6e2d.chunk.js"
   ]
 }

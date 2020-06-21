@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d6d00cf6272b174d4de94cc8c542e827",
+    "revision": "c82323fa58dbeb949b989f894ac7b016",
     "url": "/food-stores-123165/index.html"
   },
   {
-    "revision": "7ea34979fbc53da45452",
+    "revision": "9ddc3d8da33f8b5f58cd",
     "url": "/food-stores-123165/static/css/main.d767fdb7.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/food-stores-123165/static/js/2.572d5f32.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7ea34979fbc53da45452",
-    "url": "/food-stores-123165/static/js/main.696c7428.chunk.js"
+    "revision": "9ddc3d8da33f8b5f58cd",
+    "url": "/food-stores-123165/static/js/main.420c6e2d.chunk.js"
   },
   {
     "revision": "8c9084822471d19cc3c3",
